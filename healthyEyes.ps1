@@ -1,4 +1,7 @@
-
+ # Version:        0.1
+ # Author:         simislearning
+ # Creation Date:  04/09/2024
+ 
 $message = "Don't forget to blink your eyes and look 20 feets away!"
 $fontSize = 48
 
